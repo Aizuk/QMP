@@ -1,0 +1,3 @@
+public enum Trama {
+    ESTAMPADO,RAYADO,LUNARES,CUADROS,LISO
+}
